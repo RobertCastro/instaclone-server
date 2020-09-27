@@ -1,0 +1,11 @@
+{
+  "name": "instaclone",
+  "version": "0.0.1",
+  "description": "Servidor de app instaclone",
+  "main": "index.js",
+  "author": "Robert Castro",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./index.js"
+  }
+}
