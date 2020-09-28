@@ -6,12 +6,15 @@
   "author": "Robert Castro",
   "license": "MIT",
   "scripts": {
-    "dev": "node ./index.js"
+    "dev": "nodemon ./index.js"
   },
   "dependencies": {
     "apollo-server": "^2.18.1",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "mongoose": "^5.10.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
